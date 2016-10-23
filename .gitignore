@@ -1,0 +1,26 @@
+<<<<<<< fdb0c7990c0dfc0b2e8a0bf40a2a806a32d0612f
+=======
+<<<<<<< 34bd9ff5669bed224335a72a47b358b536f05abc
+=======
+<<<<<<< 34bd9ff5669bed224335a72a47b358b536f05abc
+>>>>>>> blog
+>>>>>>> m
+
+# Laravel 4 specific
+
+# Laravel 5 & Lumen specific
+
+.env
+
+# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
+.rocketeer/
+<<<<<<< fdb0c7990c0dfc0b2e8a0bf40a2a806a32d0612f
+=======
+<<<<<<< 34bd9ff5669bed224335a72a47b358b536f05abc
+=======
+=======
+
+.env
+>>>>>>> blog
+>>>>>>> blog
+>>>>>>> m

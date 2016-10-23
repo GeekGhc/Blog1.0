@@ -1,0 +1,49 @@
+body{
+    background: url("http://sp1.jikexueyuan.com/static/v2.0/images/rebc.gif");
+}
+.login_box h1 {
+    text-align: center;
+    color: #e6e6e6;
+    font-size: 120px;
+    margin: 50px 0 10px 0;
+    font-weight: normal
+}
+
+.login_box h2 {
+    text-align: center;
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-weight: normal
+}
+
+.admin_form{
+    width:360px;
+    margin:40px auto;
+}
+.code,.code-img{
+    position: absolute;
+}
+.code{
+    max-width: 200px;
+}
+.code-img{
+    margin-left: 20px;
+}
+.admin_footer{
+    width:800px;
+    margin:0 auto;
+    bottom: 20px;
+    padding: 20px;
+    border-top: 1px solid #e5e5e5;
+    height:80px;
+    text-align: center;
+}
+
+.warning{
+    margin:0 auto;
+    font-size: 18px;
+    line-height: 20px;
+    color: #ff534f;
+    text-align: center
+}
